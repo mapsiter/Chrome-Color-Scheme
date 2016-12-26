@@ -1,4 +1,4 @@
-# chrome-syntax theme
+# Chrome Color Scheme
 
 Syntax theme mimicking Chrome Developer Tools
 https://packagecontrol.io/packages/Chrome%20Color%20Scheme
